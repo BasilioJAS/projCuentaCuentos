@@ -1,0 +1,40 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="pelotaX" ID="2f5918bf-ca22-4a9f-b35b-1da5540abb8b" Version="2.3.1.2" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="img/animaciones/img/capa_0001.png" />
+      <FilePathData Path="img/animaciones/img/capa_0002.png" />
+      <FilePathData Path="img/animaciones/img/capa_0003.png" />
+      <FilePathData Path="img/animaciones/img/capa_0004.png" />
+      <FilePathData Path="img/animaciones/img/capa_0005.png" />
+      <FilePathData Path="img/animaciones/img/capa_0006.png" />
+      <FilePathData Path="img/animaciones/img/capa_0007.png" />
+      <FilePathData Path="img/animaciones/img/capa_0008.png" />
+      <FilePathData Path="img/animaciones/img/capa_0009.png" />
+      <FilePathData Path="img/animaciones/img/capa_0010.png" />
+      <FilePathData Path="img/animaciones/img/capa_0011.png" />
+      <FilePathData Path="img/animaciones/img/capa_0012.png" />
+      <FilePathData Path="img/animaciones/img/capa_0013.png" />
+      <FilePathData Path="img/animaciones/img/capa_0014.png" />
+      <FilePathData Path="img/animaciones/img/capa_0015.png" />
+      <FilePathData Path="img/animaciones/img/capa_0016.png" />
+      <FilePathData Path="img/animaciones/img/capa_0017.png" />
+      <FilePathData Path="img/animaciones/img/capa_0018.png" />
+      <FilePathData Path="img/animaciones/img/capa_0019.png" />
+      <FilePathData Path="img/animaciones/img/capa_0020.png" />
+      <FilePathData Path="img/animaciones/img/capa_0021.png" />
+      <FilePathData Path="img/animaciones/img/capa_0022.png" />
+      <FilePathData Path="img/animaciones/img/capa_0023.png" />
+      <FilePathData Path="img/animaciones/img/capa_0024.png" />
+      <FilePathData Path="img/animaciones/img/capa_0025.png" />
+      <FilePathData Path="img/animaciones/img/capa_0026.png" />
+      <FilePathData Path="img/animaciones/img/capa_0027.png" />
+      <FilePathData Path="img/animaciones/img/capa_0028.png" />
+      <FilePathData Path="img/animaciones/img/capa_0029.png" />
+      <FilePathData Path="img/animaciones/img/capa_0030.png" />
+      <FilePathData Path="img/animaciones/img/capa_0031.png" />
+      <FilePathData Path="img/animaciones/img/capa_0032.png" />
+    </ImageFiles>
+    <MaxSize Width="400" Height="400" />
+  </Content>
+</PlistInfoProjectFile>

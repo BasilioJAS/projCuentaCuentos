@@ -1,0 +1,81 @@
+<Solution>
+  <PropertyGroup Name="projCuentaCuentos" Version="2.3.1.2" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Image Name="HelloWorld.png" />
+        <Folder Name="img">
+          <Image Name="_1.png" />
+          <Image Name="_2.png" />
+          <Image Name="_3.png" />
+          <Image Name="_4.png" />
+          <Image Name="background_1.png" />
+          <Image Name="background__ipadretina.png" />
+          <Image Name="logo.png" />
+          <Image Name="splash.png" />
+          <File Name="sphere.bmp" />
+          <Folder Name="animaciones" />
+        </Folder>
+        <Folder Name="layer">
+          <Project Name="about.csd" Type="Layer" />
+          <Project Name="game_ui.csd" Type="Layer" />
+          <Project Name="option.csd" Type="Layer" />
+          <Project Name="mainMenu_ui.csd" Type="Layer" />
+        </Folder>
+        <Project Name="logo.csd" Type="Scene" />
+        <Project Name="splash.csd" Type="Scene" />
+        <Project Name="main_menu.csd" Type="Scene" />
+        <Project Name="page_01.csd" Type="Scene" />
+        <Project Name="page_02.csd" Type="Scene" />
+        <Project Name="page_03.csd" Type="Scene" />
+        <Folder Name="sound">
+          <Folder Name="music">
+            <Audio Name="Maid_with_the_Flaxen_Hair.mp3" />
+          </Folder>
+        </Folder>
+        <Folder Name="animations">
+          <Folder Name="pelotaX">
+            <Folder Name="../../img/animaciones/img">
+              <Image Name="capa_0001.png" />
+              <Image Name="capa_0002.png" />
+              <Image Name="capa_0003.png" />
+              <Image Name="capa_0004.png" />
+              <Image Name="capa_0005.png" />
+              <Image Name="capa_0006.png" />
+              <Image Name="capa_0007.png" />
+              <Image Name="capa_0008.png" />
+              <Image Name="capa_0009.png" />
+              <Image Name="capa_0010.png" />
+              <Image Name="capa_0011.png" />
+              <Image Name="capa_0012.png" />
+              <Image Name="capa_0013.png" />
+              <Image Name="capa_0014.png" />
+              <Image Name="capa_0015.png" />
+              <Image Name="capa_0016.png" />
+              <Image Name="capa_0017.png" />
+              <Image Name="capa_0018.png" />
+              <Image Name="capa_0019.png" />
+              <Image Name="capa_0020.png" />
+              <Image Name="capa_0021.png" />
+              <Image Name="capa_0022.png" />
+              <Image Name="capa_0023.png" />
+              <Image Name="capa_0024.png" />
+              <Image Name="capa_0025.png" />
+              <Image Name="capa_0026.png" />
+              <Image Name="capa_0027.png" />
+              <Image Name="capa_0028.png" />
+              <Image Name="capa_0029.png" />
+              <Image Name="capa_0030.png" />
+              <Image Name="capa_0031.png" />
+              <Image Name="capa_0032.png" />
+            </Folder>
+            <PlistInfo Name="pelotaX.csi" Type="Plist" />
+            <Project Name="pelotaXAnimation.csd" Type="Node" />
+          </Folder>
+          <Project Name="Node1.csd" Type="Node" />
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

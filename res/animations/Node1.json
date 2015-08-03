@@ -1,0 +1,24 @@
+{
+  "ID": "d616b9b6-194e-4a5d-ab45-88a49a7e75c0",
+  "Version": "2.3.1.2",
+  "Name": "Node1",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 22,
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Node"
+}

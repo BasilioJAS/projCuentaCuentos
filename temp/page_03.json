@@ -1,0 +1,163 @@
+{
+  "ID": "c0945b06-609d-425d-9797-4d64e22790a5",
+  "Version": "2.3.1.1",
+  "Name": "page_03",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 37,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "img/background_1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 400.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "HorizontalEdge": "BothEdge",
+            "VerticalEdge": "BothEdge",
+            "Tag": 59,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "img/3.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 654.2712,
+                  "Y": 418.4557
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5111,
+                  "Y": 0.5231
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 404.2712,
+                "RightMargin": 375.7288,
+                "TopMargin": 131.5443,
+                "BottomMargin": 168.4557,
+                "Tag": 60,
+                "ActionTag": -1695393644,
+                "Size": {
+                  "X": 500.0,
+                  "Y": 500.0
+                },
+                "Name": "Sprite_2",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "layer/game_ui.json",
+                  "Plist": ""
+                },
+                "InnerActionSpeed": 0.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 157.213,
+                  "Y": 101.7248
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.1228,
+                  "Y": 0.1272
+                },
+                "PreSize": {
+                  "X": 0.75,
+                  "Y": 0.8
+                },
+                "LeftMargin": 157.213,
+                "RightMargin": 162.787,
+                "TopMargin": 58.2752,
+                "BottomMargin": 101.7248,
+                "Tag": 61,
+                "ActionTag": 1699242369,
+                "Size": {
+                  "X": 960.0,
+                  "Y": 640.0
+                },
+                "Name": "ProjectNode_1",
+                "ctype": "ProjectNodeObjectData"
+              }
+            ],
+            "ActionTag": 140040923,
+            "Size": {
+              "X": 1280.0,
+              "Y": 800.0
+            },
+            "Name": "background_1_1",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 800.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "img/3.png",
+        "img/background_1.png",
+        "layer/game_ui.json"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Scene"
+}

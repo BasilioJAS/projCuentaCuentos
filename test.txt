@@ -1,0 +1,30 @@
+var res = {
+    0_logo_json : "res/0_logo.json",
+    1_splash_json : "res/1_splash.json",
+    2_main_menu_json : "res/2_main_menu.json",
+    Button_Disable_png : "res/Default/Button_Disable.png",
+    Button_Normal_png : "res/Default/Button_Normal.png",
+    Button_Press_png : "res/Default/Button_Press.png",
+    HelloWorld_png : "res/HelloWorld.png",
+    1_png : "res/img/1.png",
+    2_png : "res/img/2.png",
+    3_png : "res/img/3.png",
+    background_1_png : "res/img/background_1.png",
+    Button_Disable_png : "res/img/Default/Button_Disable.png",
+    Button_Normal_png : "res/img/Default/Button_Normal.png",
+    Button_Press_png : "res/img/Default/Button_Press.png",
+    about_json : "res/layer/about.json",
+    game_ui_json : "res/layer/game_ui.json",
+    option_json : "res/layer/option.json",
+    MainScene_json : "res/MainScene.json",
+    page_01_json : "res/page_01.json",
+    page_02_json : "res/page_02.json",
+    page_03_json : "res/page_03.json"
+
+};
+
+var g_resources = [];
+for (var i in res) {
+    g_resources.push(res[i]);
+}
+
